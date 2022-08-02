@@ -4,9 +4,9 @@ Bivium is...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Bivium Video
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Watch our presentation that won BIVIUM our 1st place prize from AT&T's Tech Youth Summit Challenge!](https://youtu.be/peYFIY_YwXE)
 
 ```markdown
 Syntax highlighted code block
